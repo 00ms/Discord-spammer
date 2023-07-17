@@ -8,7 +8,7 @@ print(f'''\n
                              
                                 ██████╗░██╗░██████╗░█████╗░░█████╗░
                                 ██╔══██╗██║██╔════╝██╔══██╗██╔══██╗
-                                ██║░░██║██║╚█████╗░██║░░╚═╝██║░░██║   AUTHOR{Fore.RESET}: "discodancer212"
+                                ██║░░██║██║╚█████╗░██║░░╚═╝██║░░██║   AUTHOR{Fore.RESET}: "69bit"
                                 ██║░░██║██║░╚═══██╗██║░░██╗██║░░██║
                                 ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝   VERSION{Fore.RESET}: 1.0
                                     VERSION{Fore.RESET}: 1.0
@@ -20,8 +20,7 @@ print(f'''\n
 		
 		
 		
-		import webbrowser
-webbrowser.open_new_tab("https://pastebin.com/raw/JZ58sk9T/")
+	
 
 		
 print(f"[{Fore.GREEN}>{Fore.RESET}] Webhook link ")
